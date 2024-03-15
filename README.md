@@ -10,4 +10,4 @@
 - [ ] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=2770&suffix=/27770%20stran)
 
 
-![0](https://progress-bar.dev/26/?scale=20&suffix=/20%20knih)
+![0](https://progress-bar.dev/0/?scale=20&suffix=/20%20knih)
