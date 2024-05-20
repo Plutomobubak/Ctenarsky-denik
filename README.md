@@ -5,7 +5,7 @@
 - [ ] 1984 --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [ ] Kočka na rozpálené střeše--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 ### navic
-- na zapadni fronte klid, promena, jeden den zivota gulag
+- na zapadni fronte klid, promena, jeden den ivana
 
 ## Česk. 20.-21. stol.
 - [ ] Saturnin --> ![hob](https://progress-bar.dev/0/?scale=256&suffix=/256%20stran)
@@ -16,8 +16,8 @@
 - [ ] Petrolejové lampy--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 ### navic 
 - Fuks, Ladislav: Spalovač mrtvol – psychologický román s filozofickými prvky, který zkoumá lidskou zvrácenost a morální zkaženost.
-Kundera, Milan: Žert – filozofický a psychologický román zkoumající otázky identity, viny a politického útlaku.
-Havel, Václav: Audience – filozofické a psychologické drama, které reflektuje lidskou svobodu a morální kompromisy v totalitním systému.
+- Kundera, Milan: Žert – filozofický a psychologický román zkoumající otázky identity, viny a politického útlaku.
+- Havel, Václav: Audience – filozofické a psychologické drama, které reflektuje lidskou svobodu a morální kompromisy v totalitním systému.
 
 ## Svět. + Česk. 19. stol.
 - [x] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky !!
