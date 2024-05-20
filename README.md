@@ -1,9 +1,11 @@
 ## Svět. 20.-21. stol.
 - [x] Hobit   -->  ![hob](https://progress-bar.dev/322/?scale=322&suffix=/322%20stran) [List](hobit.md)
-- [ ] Cizinec --> ![hob](https://progress-bar.dev/20/?scale=151&suffix=/151%20stran) [List](cizinec.md)
+- [ ] Cizinec --> ![hob](https://progress-bar.dev/28/?scale=151&suffix=/151%20stran) [List](cizinec.md)
 - [ ] Fyzikové --> ![hob](https://progress-bar.dev/0/?scale=88&suffix=/88%20stran)
 - [ ] 1984 --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [ ] Kočka na rozpálené střeše--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+### navic
+- na zapadni fronte klid, promena, jeden den zivota gulag
 
 ## Česk. 20.-21. stol.
 - [ ] Saturnin --> ![hob](https://progress-bar.dev/0/?scale=256&suffix=/256%20stran)
@@ -12,6 +14,10 @@
 - [ ] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Petrolejové lampy--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+### navic 
+- Fuks, Ladislav: Spalovač mrtvol – psychologický román s filozofickými prvky, který zkoumá lidskou zvrácenost a morální zkaženost.
+Kundera, Milan: Žert – filozofický a psychologický román zkoumající otázky identity, viny a politického útlaku.
+Havel, Václav: Audience – filozofické a psychologické drama, které reflektuje lidskou svobodu a morální kompromisy v totalitním systému.
 
 ## Svět. + Česk. 19. stol.
 - [x] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky !!
@@ -19,6 +25,8 @@
 - [ ] Zločin a trest--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Podivný případ doktora Jekylla a pana Hyda--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Revizor --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+### navic
+- obraz doriana greye
 
 ## Svět. + Česk. do 18. stol.
 - [ ] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
