@@ -12,7 +12,7 @@
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
 ## Svět. + Česk. 19. stol.
-- [ ] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky
+- [x] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky !!
 - [ ] Květy zla --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Zločin a trest--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
@@ -20,4 +20,4 @@
 - [ ] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Sluha dvou panu/Lakomec --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
-![0](https://progress-bar.dev/1/?scale=20&suffix=/20%20knih)
+![0](https://progress-bar.dev/2/?scale=20&suffix=/20%20knih)
