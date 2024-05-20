@@ -11,6 +11,7 @@
 - [ ] R.U.R --> ![hob](https://progress-bar.dev/0/?scale=114&suffix=/114%20stran)
 - [ ] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+- [ ] Petrolejové lampy--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
 ## Svět. + Česk. 19. stol.
 - [x] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky !!
