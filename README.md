@@ -15,6 +15,7 @@
 - [x] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky !!
 - [ ] Květy zla --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Zločin a trest--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+- [ ] Podivný případ doktora Jekylla a pana Hyda--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
 ## Svět. + Česk. do 18. stol.
 - [ ] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
