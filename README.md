@@ -1,6 +1,6 @@
 ## Svět. 20.-21. stol.
 - [x] Hobit   -->  ![hob](https://progress-bar.dev/322/?scale=322&suffix=/322%20stran) [List](hobit.md)
-- [ ] Cizinec --> ![hob](https://progress-bar.dev/28/?scale=151&suffix=/151%20stran) [List](cizinec.md)
+- [ ] Cizinec --> ![hob](https://progress-bar.dev/62/?scale=151&suffix=/151%20stran) [List](cizinec.md)
 - [ ] Fyzikové --> ![hob](https://progress-bar.dev/0/?scale=88&suffix=/88%20stran)
 - [ ] 1984 --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [ ] Kočka na rozpálené střeše--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
