@@ -4,8 +4,9 @@
 - [ ] Fyzikové --> ![hob](https://progress-bar.dev/0/?scale=88&suffix=/88%20stran)
 - [ ] 1984 --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [ ] Kočka na rozpálené střeše--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
-### navic
-- na zapadni fronte klid, promena, jeden den ivana
+- [ ] Na zapadní frontě klid--> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
+- [ ] Proměna --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
+- [ ] Jeden den Ivana --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 
 ## Česk. 20.-21. stol.
 - [ ] Saturnin --> ![hob](https://progress-bar.dev/0/?scale=256&suffix=/256%20stran)
@@ -13,11 +14,6 @@
 - [ ] R.U.R --> ![hob](https://progress-bar.dev/0/?scale=114&suffix=/114%20stran)
 - [ ] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
-- [ ] Petrolejové lampy--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
-### navic 
-- Fuks, Ladislav: Spalovač mrtvol – psychologický román s filozofickými prvky, který zkoumá lidskou zvrácenost a morální zkaženost.
-- Kundera, Milan: Žert – filozofický a psychologický román zkoumající otázky identity, viny a politického útlaku.
-- Havel, Václav: Audience – filozofické a psychologické drama, které reflektuje lidskou svobodu a morální kompromisy v totalitním systému.
 
 ## Svět. + Česk. 19. stol.
 - [x] Černý kocour--> ![hob](https://progress-bar.dev/14/?scale=14&suffix=/14%20stran) !! přečíst další povídky !!
@@ -32,4 +28,4 @@
 - [ ] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Sluha dvou panu/Lakomec --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
-![0](https://progress-bar.dev/2/?scale=20&suffix=/20%20knih)
+![0](https://progress-bar.dev/3/?scale=20&suffix=/20%20knih)
