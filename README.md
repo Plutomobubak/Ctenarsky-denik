@@ -4,8 +4,8 @@
 - [ ] Fyzikové --> ![hob](https://progress-bar.dev/0/?scale=88&suffix=/88%20stran)
 - [ ] 1984 --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [ ] Kočka na rozpálené střeše--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
-- [ ] Na zapadní frontě klid--> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
-- [ ] Proměna --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
+- [ ] Na zapadní frontě klid--> ![hob](https://progress-bar.dev/46/?scale=181&suffix=/181%20stran)
+- [ ] Proměna --> ![hob](https://progress-bar.dev/0/?scale=181&suffix=/181%20stran)
 - [ ] Jeden den Ivana --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 
 ## Česk. 20.-21. stol.
