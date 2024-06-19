@@ -7,6 +7,7 @@
 - [ ] Na zapadní frontě klid--> ![hob](https://progress-bar.dev/82/?scale=181&suffix=/181%20stran)
 - [ ] Proměna --> ![hob](https://progress-bar.dev/0/?scale=181&suffix=/181%20stran)
 - [ ] Jeden den Ivana --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
+- [ ] Maly princ --> ![hob](https://progress-bar.dev/54/?scale=181&suffix=/181%20stran)
 
 ## Česk. 20.-21. stol.
 - [ ] Saturnin --> ![hob](https://progress-bar.dev/0/?scale=256&suffix=/256%20stran)
