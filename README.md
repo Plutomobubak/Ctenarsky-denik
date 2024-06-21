@@ -7,7 +7,7 @@
 - [ ] Na zapadní frontě klid--> ![hob](https://progress-bar.dev/87/?scale=181&suffix=/181%20stran)
 - [ ] Proměna --> ![hob](https://progress-bar.dev/0/?scale=181&suffix=/181%20stran)
 - [ ] Jeden den Ivana --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
-- [ ] Maly princ --> ![hob](https://progress-bar.dev/54/?scale=98&suffix=/98%20stran)
+- [x] Maly princ --> ![hob](https://progress-bar.dev/95/?scale=95&suffix=/95%20stran)
 
 ## Česk. 20.-21. stol.
 - [ ] Saturnin --> ![hob](https://progress-bar.dev/0/?scale=256&suffix=/256%20stran)
@@ -30,4 +30,4 @@
 - [ ] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Sluha dvou panu/Lakomec --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
-![0](https://progress-bar.dev/3/?scale=20&suffix=/20%20knih)
+![0](https://progress-bar.dev/4/?scale=20&suffix=/20%20knih)
