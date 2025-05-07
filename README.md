@@ -6,7 +6,7 @@
 - [x] 1984 --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [ ] Kočka na rozpálené střeše--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [x] Na zapadní frontě klid--> ![hob](https://progress-bar.dev/148/?scale=181&suffix=/181%20stran)
-- [ ] Proměna --> ![hob](https://progress-bar.dev/0/?scale=181&suffix=/181%20stran)
+- [x] Proměna --> ![hob](https://progress-bar.dev/0/?scale=181&suffix=/181%20stran)
 - [ ] Jeden den Ivana --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [x] Maly princ --> ![hob](https://progress-bar.dev/95/?scale=95&suffix=/95%20stran)
 
