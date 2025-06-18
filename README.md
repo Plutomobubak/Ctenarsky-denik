@@ -14,9 +14,10 @@
 
 - [x] Saturnin --> ![hob](https://progress-bar.dev/0/?scale=256&suffix=/256%20stran)
 - [ ] Cimrman --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
-- [ ] R.U.R --> ![hob](https://progress-bar.dev/0/?scale=114&suffix=/114%20stran)
-- [ ] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
+- [x] R.U.R --> ![hob](https://progress-bar.dev/0/?scale=114&suffix=/114%20stran)
+- [x] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+- [x] Krysař
 
 ## Svět. + Česk. 19. stol
 
@@ -37,4 +38,4 @@
 - [ ] Sluha dvou panu/Lakomec --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
 ![0](https://progress-bar.dev/4/?scale=20&suffix=/20%20knih)
-7/20
+11/20
