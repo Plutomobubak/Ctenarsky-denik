@@ -10,6 +10,7 @@ min. 4
 - [x] Proměna --> ![hob](https://progress-bar.dev/0/?scale=181&suffix=/181%20stran)
 - [ ] Jeden den Ivana --> ![hob](https://progress-bar.dev/0/?scale=316&suffix=/316%20stran)
 - [x] Maly princ --> ![hob](https://progress-bar.dev/95/?scale=95&suffix=/95%20stran)
+- [ ] Catcher in the rye
 
 ## Česk. 20.-21. stol
 min. 5
