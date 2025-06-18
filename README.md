@@ -18,6 +18,7 @@ min. 5
 - [x] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [x] Krysař
+- [ ] Spalovač mrtvol
 
 ## Svět. + Česk. 19. stol
 min. 3
