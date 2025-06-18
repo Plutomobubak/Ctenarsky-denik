@@ -1,3 +1,4 @@
+min. 2 - Próza, Poezie, Drama
 ## Svět. 20.-21. stol
 min. 4
 - [x] Hobit   -->  ![hob](https://progress-bar.dev/322/?scale=322&suffix=/322%20stran) [List](hobit.md)
