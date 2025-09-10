@@ -43,4 +43,4 @@ min.2
 - [ ] Sluha dvou panu/Lakomec --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
 ![0](https://progress-bar.dev/4/?scale=20&suffix=/20%20knih)
-11/20
+13/20
