@@ -20,7 +20,7 @@ min. 5
 - [x] Bílá nemoc --> ![hob](https://progress-bar.dev/0/?scale=128&suffix=/128%20stran)
 - [ ] Povídky z jedné kapsy --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [x] Krysař
-- [ ] Spalovač mrtvol
+- [x] Spalovač mrtvol
 
 ## Svět. + Česk. 19. stol
 min. 3
@@ -39,7 +39,7 @@ min. 3
 ## Svět. + Česk. do 18. stol 
 min.2
 
-- [ ] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
+- [x] Utrpení mladého Werthera--> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 - [ ] Sluha dvou panu/Lakomec --> ![hob](https://progress-bar.dev/0/?scale=393&suffix=/393%20stran)
 
 ![0](https://progress-bar.dev/4/?scale=20&suffix=/20%20knih)
