@@ -3,9 +3,7 @@ min. 2 - Próza, Poezie, Drama
 min. 4
 - [x] Hobit [List](Hobit.md)
 - [x] Cizinec  [List](Cizinec.md)
-- [ ] Fyzikové
 - [x] 1984 [List](1984.md)
-- [ ] Kočka na rozpálené střeše
 - [x] Na zapadní frontě klid [List](./Na%20zapadni%20fronte klid.md)
 - [x] Proměna [List](Promena.md)
 - [x] Maly princ
@@ -18,7 +16,6 @@ min. 5
 - [ ] Cimrman - Vysetrovani ztraty tridni knihy
 - [x] R.U.R [List](./Ceska20/RUR.md)
 - [x] Bílá nemoc [List](Bila%20nemoc.md)
-- [ ] Povídky z jedné kapsy
 - [x] Krysař [List](Krysar.md)
 - [x] Spalovač mrtvol [List](Spalovac%20mrtvol.md)
 - [x] Ostře sledované vlaky
@@ -27,15 +24,12 @@ min. 5
 min. 3
 
 - [x] Černý kocour !! přečíst další povídky !!   [List](Cerny%20kocour.md)
-- [ ] Květy zla 
-- [ ] Opilý koráb/Máj/Kytice
-
-- [ ] Podivný případ doktora Jekylla a pana Hyda
-- [ ] Revizor 
+- [ ] Květy zla/Opilý koráb/Máj/Kytice
+- [ ] Obraz Doriana Graye
 ## Svět. + Česk. do 18. stol 
 min.2
 
 - [x] Utrpení mladého Werthera [List](Werther.md)
-- [ ] Lakomec
+- [ ] Shakespeare - Sonety
 
 15/20
