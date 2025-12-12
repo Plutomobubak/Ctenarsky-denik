@@ -9,7 +9,7 @@ min. 4
 - [x] Na zapadní frontě klid [List](./Na%20zapadni%20fronte klid.md)
 - [x] Proměna [List](Promena.md)
 - [x] Maly princ
-- [ ] Catcher in the rye
+- [x] Catcher in the rye
 - [ ] Stařec a moře
 
 ## Česk. 20.-21. stol
@@ -21,7 +21,7 @@ min. 5
 - [ ] Povídky z jedné kapsy
 - [x] Krysař [List](Krysar.md)
 - [x] Spalovač mrtvol [List](Spalovac%20mrtvol.md)
-- [ ] Ostře sledované vlaky
+- [x] Ostře sledované vlaky
 
 ## Svět. + Česk. 19. stol
 min. 3
@@ -38,4 +38,4 @@ min.2
 - [x] Utrpení mladého Werthera [List](Werther.md)
 - [ ] Lakomec
 
-13/20
+15/20
