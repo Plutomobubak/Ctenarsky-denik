@@ -8,7 +8,7 @@ min. 4
 - [x] Proměna [List](Promena.md)
 - [x] Maly princ
 - [x] Catcher in the rye
-- [ ] Stařec a moře
+- [x] Stařec a moře
 
 ## Česk. 20.-21. stol
 min. 5
@@ -32,4 +32,4 @@ min.2
 - [x] Utrpení mladého Werthera [List](Werther.md)
 - [ ] Shakespeare - Sonety
 
-15/20
+16/20
