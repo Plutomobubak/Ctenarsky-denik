@@ -24,7 +24,7 @@ min. 5
 min. 3
 
 - [x] Černý kocour !! přečíst další povídky !!   [List](Cerny%20kocour.md)
-- [ ] Květy zla/Opilý koráb/Máj/Kytice
+- [ ] Opilý koráb
 - [ ] Obraz Doriana Graye
 ## Svět. + Česk. do 18. stol 
 min.2
