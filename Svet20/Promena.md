@@ -1,19 +1,25 @@
-### **Proměna (Franz Kafka)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Proměna  
 - **Autor:** Franz Kafka  
 - **Rok publikace:** 1915  
 - **Literární žánr:** Novela, existencialistická literatura  
 - **Místo v literatuře:** Symbolické dílo světové literatury, které reflektuje odcizení člověka, absurditu existence a problémy mezilidských vztahů.  
+---
+## **Literárně-historický kontext:** 
 
-#### **Téma díla:**  
+- Kafka psal v německy mluvícím prostředí Prahy na počátku 20. století. Dílo reflektuje autorův pocit izolace (jako Žid mluvící německy v českém prostředí) a jeho komplikovaný, až drtivý vztah k autoritativnímu otci.
+    
+## **Související autor: Nikolaj Vasiljevič Gogol**
+
+- Kafkova _Proměna_ nese stopy gogolovského groteskna. Gogolova povídka **Nos**, ve které úředníkovi jednoho rána zmizí nos a začne žít vlastním životem, je předchůdcem absurdní situace, kdy se fantastický prvek bere jako samozřejmá (byť nepříjemná) realita.
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Náhlá fyzická a psychická proměna člověka.  
 - **Hlavní témata:** Odcizení, izolace, vztahy v rodině, oběť, absurdní životní situace, ztráta identity a smyslu existence.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Próza psaná v er-formě, chronologická.  
 - **Struktura:**  
@@ -23,7 +29,7 @@
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Proměna hlavní postavy:**  
    - Rehor se jednoho rána probudí a zjistí, že se proměnil v obrovského hmyzu. Tato proměna je náhlá a zcela nečekaná, a Rehor se s ní snaží vyrovnat.  
@@ -48,22 +54,19 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Rehor:**  
    - **Role:** Hlavní postava, obchodní cestující.  
    - **Charakteristika:** Loajální, obětavý, inteligentní a citlivý muž, postupně izolovaný a odcizený; symbol odcizení, ztráty identity a absurdity lidského života.  
 
-2. **Paní Samsová (matka):**  
-   - **Role:** Rehorova matka.  
+1. **Paní Samsová (matka):**  
    - **Charakteristika:** Zpočátku soucitná a starostlivá, postupně lhostejná; symbol emocionální kolísavosti a nemožnosti čelit absurditě.  
 
-3. **Pan Samsa (otec):**  
-   - **Role:** Rehorův otec.  
+1. **Pan Samsa (otec):**  
    - **Charakteristika:** Autoritativní, postupně agresivní; představuje rigidní autoritu a odcizení v rodině.  
 
-4. **Grete (dcera):**  
-   - **Role:** Rehorova sestra.  
+4. **Grete (dcera):**   
    - **Charakteristika:** Zpočátku se stará, snaží se pečovat, ale postupně se distancuje; symbol proměny citů, mládí a vyrovnávání se s nepohodlnou realitou.  
 
 ---
@@ -75,4 +78,4 @@
   - Proměna – odcizení a ztráta identity  
   - Hmyz – fyzická deformace, symbol psychického a sociálního útlaku  
   - Izolace – odcizení od rodiny a společnosti  
-- **Atmosféra:** Dusná, klaustrofobická, tragická, gradující pocit beznaděje a absurdity existence.  
+

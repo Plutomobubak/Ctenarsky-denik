@@ -1,26 +1,32 @@
-### **Hobit (J.R.R. Tolkien)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Hobit, aneb Cesta tam a zase zpátky  
 - **Autor:** J.R.R. Tolkien  
 - **Rok publikace:** 1937  
 - **Literární žánr:** Fantasy, dobrodružný román  
 - **Místo v literatuře:** Jedno z nejvýznamnějších děl žánru fantasy, které předcházelo Tolkienovu rozsáhlejšímu dílu *Pán prstenů*.  
+---
+## **Literárně-historický kontext:**
 
-#### **Téma díla:**  
+- Tolkien, profesor staroangličtiny v Oxfordu, chtěl vytvořit "vlastní mytologii pro Anglii". _Hobit_ vznikl původně jako příběh pro jeho děti, ale čerpá z hlubokých znalostí severských ság a starogermánské epiky.
+    
+## **Související autor: C. S. Lewis**
+ 
+ - Tolkien byl blízkým přítelem C. S. Lewise (autor _Letopisů Narnie_). Oba byli členy literární skupiny **Inklings** a vzájemně si svá díla předčítali. Zatímco Lewis vnášel do fantasy křesťanskou alegorii, Tolkien se soustředil na lingvistickou a historickou hloubku svého světa.
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Cesta a osobní růst hlavní postavy Bilba Pytlíka, který se z obyčejného hobita stává hrdinou a účastníkem velkého dobrodružství.  
 - **Hlavní témata:** Přátelství, odhodlání, dobro a zlo, osobní růst, domov a hrdinství.
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Próza, vyprávění v ich-formě.  
 - **Struktura:** Příběh je rozdělen do několika kapitol, z nichž každá popisuje jiné etapy Bilbovy cesty.  
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Bilbova nečekaná výprava:**  
    - Bilbo Pytlík, obyčejný hobit žijící v klidné krajině, se jednoho dne setkává s čarodějem Gandalfem a skupinou trpaslíků. Gandalf ho přemluví, aby se připojil k dobrodružné výpravě, jejímž cílem je získat zpět ukradený poklad z hory Erebor, který střeží drak Šmak.  
@@ -39,7 +45,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Bilbo Pytlík:**  
    - **Role:** Hlavní postava, hobit, který se vydává na nečekanou výpravu.  
@@ -59,7 +65,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Epický, líčivý, s bohatým popisem přírody a postav. Tolkien využívá archaický jazyk, který má evokovat pocit starobylosti a magičnosti Středozemě.  
 - **Atmosféra:** Dobrodružná, napínavá, místy temná a melancholická, ale zároveň plná naděje a hrdinství.

@@ -1,23 +1,30 @@
-### **Malý princ (Antoine de Saint-Exupéry)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 - **Název:** Malý princ  
 - **Autor:** Antoine de Saint-Exupéry  
 - **Rok publikace:** 1943  
 - **Literární žánr:** Pohádkový příběh s filozofickými prvky  
 - **Místo v literatuře:** Jedno z nejslavnějších a nejpřekládanějších děl světové literatury, oblíbené dětmi i dospělými.  
+---
+## **Literárně-historický kontext:** 
 
-#### **Téma díla:**  
+- Kniha vznikla v exilu v USA během druhé světové války. Exupéry v ní reflektuje svou osamělost a smutek z rozvrácené Evropy. Letec, který havaruje v poušti, je autorovo alter ego – on sám byl průkopníkem letectví a skutečně v poušti havaroval.
+    
+## **Související autor: Antoine de la Sale** 
+
+- Historici literatury někdy hledají kořeny Exupéryho poetiky ve středověké literatuře (rytířské ctnosti). Nicméně nejblíže mu jsou jeho vlastní filozofické eseje (např. _Země lidí_), kde rozvíjí myšlenky o lidské odpovědnosti a "vytváření vazeb".
+
+---
+## **Téma díla:**  
 - **Hlavní motiv:** Hledání smyslu života, přátelství a lásky.  
 - **Hlavní témata:** Dětská nevinnost, lidské slabosti, důležitost mezilidských vztahů, hledání vlastní identity.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 - **Forma:** Er-forma s retrospektivními pasážemi, kombinace vypravování a dialogů.  
 - **Struktura:** Jednoduchý příběh s hlubokými filozofickými významy, členěný na epizody z jednotlivých planet.  
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Setkání pilota a Malého prince:**  
    - Vypravěč, pilot, havaruje s letadlem na Sahaře. Zde potká Malého prince, malého chlapce z jiné planety. Malý princ mu vypráví o svém životě a cestách po různých planetách.  
@@ -39,7 +46,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Malý princ:**  
    - **Role:** Hlavní postava, idealistický chlapec, který reprezentuje dětskou nevinnost a čistotu.  
@@ -62,29 +69,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 - **Styl:** Jednoduchý, poetický, symbolický, s častými metaforami a hlubšími významy.  
 - **Symbolika:** Růže (láska), liška (přátelství), had (smrt jako přechod).  
 - **Atmosféra:** Melancholická, zamyšlená, místy radostná.  
-
----
-
-### **Saturnin (Zdeněk Jirotka)**  
-
-#### **Celková charakteristika díla:**  
-- **Název:** Saturnin  
-- **Autor:** Zdeněk Jirotka  
-- **Rok publikace:** 1942  
-- **Literární žánr:** Humoristický román  
-- **Místo v literatuře:** Oblíbené české dílo, inspirované anglickou literární tradicí humoristických románů.  
-
-#### **Téma díla:**  
-- **Hlavní motiv:** Komické situace způsobené Saturninovou nevypočitatelností.  
-- **Hlavní témata:** Humor, mezilidské vztahy, kritika snobismu a maloměšťáctví.  
-
-#### **Kompozice:**  
-- **Forma:** Próza psaná v ich-formě.  
-- **Struktura:** Volně propojené epizody spojené postavou Saturnina.  
-
----
-

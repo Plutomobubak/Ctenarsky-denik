@@ -1,26 +1,32 @@
-### **Saturnin (Zdeněk Jirotka)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Saturnin  
 - **Autor:** Zdeněk Jirotka  
 - **Rok publikace:** 1942  
 - **Literární žánr:** Humoristický román  
 - **Místo v literatuře:** Jedno z nejznámějších českých humoristických děl, je často považováno za klasiku české literatury.  
+---
+## **Literárně-historický kontext:** 
 
-#### **Téma díla:**  
+- Román vyšel v roce 1942, v nejtemnějším období protektorátu. Pro české čtenáře představoval humor a laskavá ironie formu vnitřního úniku z válečné reality a oslavu anglické gentlemanství a svobody.
+    
+## **Související autor: P. G. Wodehouse** 
+
+- Jirotka se nechal otevřeně inspirovat humorem britského spisovatele Wodehouse, tvůrce postavy **komorníka Jeevese**. Saturnin je českou odpovědí na tento typ "vševědoucího sluhy", který s ledovým klidem řeší chaos kolem svého pána.
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Absurdní a komické situace, které vznikají díky nevypočitatelnému chování hlavní postavy Saturnina.  
 - **Hlavní témata:** Humor, satira, ironie, mezilidské vztahy, kritika maloměšťácké společnosti, absurdnost života a vztahů.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Próza psaná v ich-formě.  
 - **Struktura:** Volně propojené epizody, v nichž hlavní postava, vypravěč, popisuje události, které se odehrávají díky Saturninovým neobvyklým zásahům do života.  
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Setkání s Saturninem:**  
    - Hlavní postava, mladý muž, žije v domácnosti se svým sluhou Saturninem, který se vyznačuje svými nevypočitatelnými, často absurdními činy. Vypravěč nám líčí, jak Saturnin neustále překvapuje svou originalitou a schopností dostat do potíží všechny kolem sebe.
@@ -39,7 +45,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Saturnin:**  
    - **Role:** Hlavní postava, sluha vypravěče.  
@@ -59,7 +65,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Humoristický, s nadsázkou, plný ironie a satiry. Jazyky jsou bohaté na komické narážky a absurdity.  
 - **Atmosféra:** Lehká, komická, někdy absurdní, ale i hluboká, ukazující na filozofické otázky o životě a vztazích.  

@@ -1,26 +1,32 @@
-### **Cizinec (Albert Camus)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Cizinec  
 - **Autor:** Albert Camus  
 - **Rok publikace:** 1942  
 - **Literární žánr:** Existencialistický román, filozofická literatura  
 - **Místo v literatuře:** Jeden z klíčových románů existencialistické literatury, který se zaměřuje na absurdní povahu lidského života a otázky smyslu existence.  
+---
+## **Literárně-historický kontext**
 
-#### **Téma díla:**  
+- Román vyšel během druhé světové války v okupované Francii. Camus v něm formuluje svou filozofii **absurdna** – pocit cizoty člověka ve světě, který postrádá vyšší smysl a řád.
+    
+## **Související autor: Franz Kafka**
+
+- Camusův Meursault je často přirovnáván k hrdinům **Franze Kafky**. Oba autoři zobrazují jedince vláčeného mechanismy (soudními či úředními), kterým nerozumí a které jsou k jeho lidskému osudu zcela lhostejné. Rozdíl je v tom, že Meursault tuto lhostejnost v závěru přijímá jako osvobození.
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Absurdní život hlavního hrdiny, který se snaží nalézt smysl v nelogickém a chaotickém světě.  
 - **Hlavní témata:** Absurdnost, smrt, osamělost, hledání smyslu života, odcizení, beznaděj.
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Próza, vyprávěná v ich-formě.  
 - **Struktura:** Děj je rozdělen do dvou částí – první část líčí každodenní život hlavního hrdiny, druhá se soustředí na jeho soudní proces a konfrontaci s absurditou smrti.  
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Úvod a smrt matky:**  
    - Hlavní postava, Meursault, je obyčejný muž, který žije v Alžíru a nezajímá se o hlubší významy života. Na začátku příběhu se dozvídá o smrti své matky, ale nijak ji neprožívá a nejeví žádné známky smutku.  
@@ -36,7 +42,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Meursault:**  
    - **Role:** Hlavní postava, jehož život je protkán absurditou a odcizením.  
@@ -52,7 +58,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Jednoduchý, přímý, bez přehnaných emocí. Camus používá jazyk, který odpovídá apatii a nezúčastněnosti hlavní postavy.  
 - **Atmosféra:** Temná, filozofická, a místy chladná. Důraz je kladen na vyprávění o absurditě existence.

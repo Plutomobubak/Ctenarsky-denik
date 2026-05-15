@@ -1,19 +1,26 @@
-### **Bílá nemoc (Karel Čapek)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Bílá nemoc  
 - **Autor:** Karel Čapek  
 - **Rok publikace:** 1937  
 - **Literární žánr:** Drama, alegorická politická fikce  
 - **Místo v literatuře:** Významné dílo české literatury 20. století, kritika totalitarismu, války a neetického chování politických vůdců.  
+---
+## **Literárně-historický kontext:**
 
-#### **Téma díla:**  
+- Drama napsal Čapek v roce 1937 jako varování před hrozbou nacistického Německa a Adolfa Hitlera (postava Maršála). Dílo reaguje na selhávání demokracie a nástup fanatismu v Evropě těsně před vypuknutím druhé světové války.
+    
+## **Související autor: George Bernard Shaw**
+
+- Čapek se v diskusních dramatech nechal inspirovat Shawem. Oba autoři využívali divadlo jako tribunu pro nastolování palčivých etických a společenských otázek své doby.
+---
+
+## **Téma díla:**  
 
 - **Hlavní motiv:** Šíření záhadné nemoci, která postihuje lidi v období válečného konfliktu.  
 - **Hlavní témata:** Morálka, moc, válka, odpovědnost vědců a politických vůdců, lidská solidarita vs. bezohlednost.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Drama v několika dějstvích.  
 - **Struktura:**  
@@ -23,7 +30,7 @@
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Objevení nemoci:**  
    - V Evropě se objevuje záhadná nemoc, nazývaná „Bílá nemoc“, která postihuje starší lidi a hrozí masovým úmrtím.  
@@ -42,7 +49,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Doktor Galén:**  
    - **Role:** Hlavní postava, vědec a lékař.  
@@ -62,7 +69,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Dialogy, dramatický jazyk, filozofické a etické úvahy; přímočarý a jasný, místy apelativní.  
 - **Symbolika:**  

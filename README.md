@@ -1,35 +1,37 @@
 min. 2 - Próza, Poezie, Drama
 ## Svět. 20.-21. stol
 min. 4
-- [x] Hobit [List](Hobit.md)
-- [x] Cizinec  [List](Cizinec.md)
-- [x] 1984 [List](1984.md)
+[Viz](Svet20/Svet%2020.md)
+- [x] Hobit
+- [x] Cizinec
+- [x] 1984
 - [x] Na zapadní frontě klid
-- [x] Proměna [List](Promena.md)
+- [x] Proměna
 - [x] Maly princ
 - [x] Catcher in the rye
 - [x] Stařec a moře
 
 ## Česk. 20.-21. stol
 min. 5
-- [x] Saturnin [List](Saturnin.md)
+[Viz](Ceska20/Ceska%2020)
+- [x] Saturnin
 - [x] Cimrman - Vysetrovani ztraty tridni knihy
-- [x] R.U.R [List](./Ceska20/RUR.md)
-- [x] Bílá nemoc [List](Bila%20nemoc.md)
-- [x] Krysař [List](Krysar.md)
-- [x] Spalovač mrtvol [List](Spalovac%20mrtvol.md)
+- [x] R.U.R
+- [x] Bílá nemoc
+- [x] Krysař
+- [x] Spalovač mrtvol
 - [x] Ostře sledované vlaky
 
 ## Svět. + Česk. 19. stol
 min. 3
-
-- [x] Černý kocour !! přečíst další povídky !!   [List](Cerny%20kocour.md)
+[Viz](19/19.%20stol.md)
+- [x] Černý kocour !! přečíst další povídky !!
 - [ ] Opilý koráb
-- [ ] Obraz Doriana Graye
+- [x] Obraz Doriana Graye
 ## Svět. + Česk. do 18. stol 
 min.2
-
-- [x] Utrpení mladého Werthera [List](Werther.md)
+[Viz](18/18.%20stol.md)
+- [x] Utrpení mladého Werthera
 - [ ] Shakespeare - Sonety
 
 17/20

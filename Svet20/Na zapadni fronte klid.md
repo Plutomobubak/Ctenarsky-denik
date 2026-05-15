@@ -1,26 +1,32 @@
-### **Na západní frontě klid (Erich Maria Remarque)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Na západní frontě klid  
 - **Autor:** Erich Maria Remarque  
 - **Rok publikace:** 1929  
 - **Literární žánr:** Válečný román  
 - **Místo v literatuře:** Jedno z nejsilnějších protiválečných děl, které realisticky zobrazuje krutost a absurditu první světové války.  
+---
+## **Literárně-historický kontext:**
 
-#### **Téma díla:**  
+- Román vyšel deset let po konci první světové války a stal se okamžitým bestsellerem. Remarque v něm dává hlas tzv. **ztracené generaci** – mladým mužům, kteří sice přežili válku fyzicky, ale duševně se z ní nikdy nevrátili.
+    
+## **Související autor: Ernest Hemingway** 
+
+- Hemingway v románu **Sbohem, armádo!** zpracovává podobné téma deziluze z války. Oba autoři používají úsečný, věcný styl a soustředí se na prožitky obyčejného vojáka spíše než na velká gesta generálů.
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Ztráta ideálů a zničení lidskosti pod tlakem války.  
 - **Hlavní témata:** Hrůzy války, přátelství, deziluze mladé generace, smrt a odcizení.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Ich-forma, retrospektivní vyprávění hlavní postavy.  
 - **Struktura:** Chronologický popis života na frontě, prolínání dramatických bojů a introspektivních úvah.  
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Úvod – mladí vojáci a idealismus:**  
    - Paul Bäumer a jeho spolužáci se nechají ovlivnit nacionalistickou propagandou Kantorka (nomen omen) a dobrovolně narukují do armády. Jsou plni idealismu a víry v ušlechtilost boje.  
@@ -45,7 +51,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Paul Bäumer:**  
    - **Role:** Hlavní postava a vypravěč příběhu.  
@@ -65,7 +71,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Realistický, věcný, občas strohý. Popisy válečných scén jsou naturalistické, nevyhýbají se krutostem.  
 - **Symbolika:** Ztráta ideálů symbolizuje ztrátu celé generace mladých mužů.  

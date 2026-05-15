@@ -1,26 +1,26 @@
-### **Černý kocour (Edgar Allan Poe)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Černý kocour  
 - **Autor:** Edgar Allan Poe  
 - **Rok publikace:** 1843  
 - **Literární žánr:** Hororová povídka  
 - **Místo v literatuře:** Významné dílo amerického romantismu, které zkoumá temné aspekty lidské psychiky.  
-
-#### **Téma díla:**  
+---
+- lit kontext
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Černý kocour jako symbol zla a viny.  
 - **Hlavní témata:** Psychologická destrukce, vina, zlo, alkoholismus, násilí a trest.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Psáno v první osobě, což přispívá k autenticitě vypravěčova psychického stavu.  
 - **Struktura:** Chronologický příběh s dramatickým vrcholem a tragickým zakončením.  
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Úvod – život milovníka zvířat:**  
    - Vypravěč představuje své dětství, kdy byl citlivý a milující zvířata, a popisuje svůj poklidný život s manželkou, která sdílí jeho lásku ke zvířatům. Mezi jejich domácími mazlíčky vyčnívá černý kocour Pluto, jehož vypravěč zbožňuje a považuje za svého nejvěrnějšího společníka.  
@@ -42,7 +42,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Vypravěč:**  
    - **Role:** Hlavní postava a vypravěč příběhu.  
@@ -63,7 +63,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Vypravěčův jazyk je bohatý na popisy a emocemi nabitý. Atmosféra je temná a znepokojivá, plná napětí a symboliky.  
 - **Symbolika:** Černý kocour jako zosobnění zla a karmického trestu. Bílá skvrna jako náznak blížící se spravedlnosti.  

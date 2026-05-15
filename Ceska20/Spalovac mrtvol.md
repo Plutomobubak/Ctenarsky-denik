@@ -1,19 +1,20 @@
-### **Spalovač mrtvol (Ladislav Fuks)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Spalovač mrtvol  
 - **Autor:** Ladislav Fuks  
 - **Rok publikace:** 1967  
 - **Literární žánr:** Psychologický román, existenciální literatura, hororová prvky  
 - **Místo v literatuře:** Významné dílo české literatury 20. století, psychologická studie totalitní ideologie a mechanismů fanatismu.  
+---
 
-#### **Téma díla:**  
+- lit kontext
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Psychologická proměna člověka a jeho podřízení totalitní ideologii.  
 - **Hlavní témata:** Zlo, manipulace, fanatismus, morální degradace, strach, poslušnost a vnitřní konflikty.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Próza psaná v er-formě, retrospektivní i chronologické prvky.  
 - **Struktura:**  
@@ -23,7 +24,7 @@
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Seznámení s hlavní postavou:**  
    - Hlavní postava, Karel Kopfrkingl, je pracovitý, tichý muž, který se stará o krematorium. Je klidný, pečlivý a zdánlivě nenápadný.  
@@ -42,7 +43,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Karel Kopfrkingl:**  
    - **Role:** Hlavní postava, spalovač mrtvol.  
@@ -58,7 +59,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Věcný, precizní, psychologicky detailní; autor využívá vnitřní monology a popisy prostředí k vytváření napětí a pocitu klaustrofobie.  
 - **Symbolika:**  

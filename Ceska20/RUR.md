@@ -1,19 +1,25 @@
-### **R.U.R. (Karel Čapek)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** R.U.R. (Rossumovi Univerzální Roboti)  
 - **Autor:** Karel Čapek  
 - **Rok publikace:** 1920  
 - **Literární žánr:** Drama, science fiction  
 - **Místo v literatuře:** Zakladatelské dílo moderní science fiction, první použití slova „robot“; zásadní reflexe vztahu člověka k technice a etických důsledků vědy.  
+---
+## **Literárně-historický kontext:**
 
-#### **Téma díla:**  
+- Čapek napsal hru krátce po první světové válce, kdy lidstvo zažilo ničivou sílu techniky (tanky, chemické zbraně). Dílo odráží strach z toho, že se člověk stane pouhou součástkou stroje a ztratí svou duši v dravém kapitalismu.
+    
+## **Související autor: Mary Shelleyová**
+
+- Motivem stvoření, které se obrátí proti svému tvůrci, Čapek navazuje na slavný román **Frankenstein**. Zatímco u Shelleyové jde o jeden tragický experiment, Čapek téma povýšil na masovou, průmyslovou katastrofu celého lidstva.
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Vytvoření umělých lidí – robotů – a jejich vzpoura proti lidem.  
 - **Hlavní témata:** Technologie vs. lidskost, odcizení, zodpovědnost tvůrců, etika vědy, moc, zánik civilizace, naděje na nový začátek.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Drama v pěti dějstvích.  
 - **Struktura:**  
@@ -23,7 +29,7 @@
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Vynález robotů:**  
    - Rossum vyrábí roboty, kteří mají sloužit lidem jako pracovní síla. Postupně se stávají zcela všudypřítomnými ve všech oblastech lidské činnosti.  
@@ -42,7 +48,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Harry Domin:**  
    - **Role:** Ředitel továrny Rossum.  
@@ -62,7 +68,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Dialogy, dramatický jazyk, filozofické pasáže; vyzdvihuje morální a etické otázky.  
 - **Symbolika:**  

@@ -1,19 +1,27 @@
-### **Krysař (Karel Čapek)**  
-
-#### **Celková charakteristika díla:**  
+## **Celková charakteristika díla:**  
 
 - **Název:** Krysař  
-- **Autor:** Karel Čapek  
+- **Autor:** Viktor Dyk
 - **Rok publikace:** 1924  
 - **Literární žánr:** Novela, pohádka s alegorickými prvky, psychologická literatura  
 - **Místo v literatuře:** Významné dílo české literatury, reflexe lidských slabostí, společenské nespravedlnosti a osamělosti.  
 
-#### **Téma díla:**  
+---
+## **Literárně-historický kontext:** 
+
+- Dyk zpracoval staroněmeckou pověst z města Hameln. Vydal ji v roce 1915, v době války, čímž do příběhu vložil skepsi vůči davu a kritiku maloměšťácké lhostejnosti.
+    
+## **Související autor: Heinrich Heine** 
+
+- Stejnou legendu o krysaři zpracoval ve své baladě i německý romantik **Heinrich Heine**. Dyk však na rozdíl od něj příběh prohloubil o psychologickou motivaci krysaře a jeho tragickou lásku k Agnes.
+
+---
+## **Téma díla:**  
 
 - **Hlavní motiv:** Krysař, který osvobozuje město od krys, ale stává se obětí lidské nespravedlnosti.  
 - **Hlavní témata:** Osamělost, zrada, láska, odpovědnost, morální spravedlnost, konflikt jedince a společnosti.  
 
-#### **Kompozice:**  
+## **Kompozice:**  
 
 - **Forma:** Próza, novela, pohádkově alegorický styl.  
 - **Struktura:**  
@@ -23,7 +31,7 @@
 
 ---
 
-### **Základní dějová linie:**  
+## **Základní dějová linie:**  
 
 1. **Příjezd Krysaře:**  
    - Krysař přijíždí do města, které je sužováno krysami. Nabízí svou službu, aby krysám učinil přítrž.  
@@ -42,7 +50,7 @@
 
 ---
 
-### **Postavy:**  
+## **Postavy:**  
 
 1. **Krysař:**  
    - **Role:** Hlavní postava, tajemný muž s píšťalou.  
@@ -58,7 +66,7 @@
 
 ---
 
-### **Jazyk díla:**  
+## **Jazyk díla:**  
 
 - **Styl:** Pohádkový, alegorický, místy poetický; jednoduchý jazyk kombinovaný s psychologickými popisy.  
 - **Symbolika:**  
