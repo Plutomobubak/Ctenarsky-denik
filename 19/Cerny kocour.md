@@ -6,7 +6,17 @@
 - **Literární žánr:** Hororová povídka  
 - **Místo v literatuře:** Významné dílo amerického romantismu, které zkoumá temné aspekty lidské psychiky.  
 ---
-- lit kontext
+### **Literárně-historický kontext**
+
+- **Americký romantismus (Temný romantismus):** Povídka vyšla v roce 1843. Poe se v ní vymezil vůči klasickému osvícenskému rozumu a tehdejšímu optimismu. Zaměřil se na odvrácenou stranu lidské duše – na iracionální chování, perverznost, šílenství a nevysvětlitelné nutkání konat zlo.
+    
+- **Zakladatel žánrů:** Poe touto a dalšími povídkami položil základy moderního hororu, psychologického thrilleru a detektivního žánru.
+    
+
+### **Související autor: Fjodor Michajlovič Dostojevskij**
+
+Poeův _Černý kocour_ má hlubokou myšlenkovou vazbu na slavný román **Zločin a trest** od F. M. Dostojevského (který byl Poeovým velkým obdivovatelem). Obě díla jsou geniální psychologickou studií vraha. Vypravěč v _Kocouru_ i Raskolnikov v _Zločinu a trestu_ jsou po spáchání vraždy drásáni vlastním svědomím, propadají paranoii a podvědomě vyhledávají svůj vlastní trest, což je nakonec dovede k nevyhnutelnému odhalení.
+
 ---
 ## **Téma díla:**  
 

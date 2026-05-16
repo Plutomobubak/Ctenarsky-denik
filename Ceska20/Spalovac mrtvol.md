@@ -6,8 +6,17 @@
 - **Literární žánr:** Psychologický román, existenciální literatura, hororová prvky  
 - **Místo v literatuře:** Významné dílo české literatury 20. století, psychologická studie totalitní ideologie a mechanismů fanatismu.  
 ---
+### **Literárně-historický kontext
 
-- lit kontext
+- **Česká próza 2. poloviny 20. století:** Román vyšel v uvolněných 60. letech (1967), ale dějově se vrací do období konce 30. let (nástup nacismu a Mnichovská dohoda). Patří do tzv. druhé vlny válečné prózy, která se spíše než na dokumentární popis bojů soustředila na psychologickou analýzu zla, strachu a fašismu.
+    
+- **Autorský styl:** Ladislav Fuks, jakožto člověk s židovskými kořeny a homosexuální orientací, prožíval celý život hlubokou úzkost z nesvobody a pronásledování. Tyto pocity tísně a izolace dokonale promítl do atmosféry celého románu.
+    
+
+### **Související autor: Klaus Mann**
+
+Podobně jako Fuks, i německý spisovatel Klaus Mann ve svém románu **Mefisto** zkoumá téma morálního rozkladu jednotlivce pod vlivem totalitní ideologie. Zatímco Fuksuv Kopfrkingl se mění v monstrum kvůli své psychické labilitě a touze po čistotě, Mannův hrdina (herec Hendrik Höfgen) zaprodá svou lidskost a spolupracuje s nacisty čistě pro kariérní úspěch. Oba autoři skvěle ukazují, jak snadno totalita pohltí průměrného člověka.
+
 ---
 ## **Téma díla:**  
 

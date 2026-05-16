@@ -1,7 +1,7 @@
 - [x] Saturnin [List](Saturnin.md)
-- [x] Cimrman - Vysetrovani ztraty tridni knihy - TODO
+- [x] Cimrman - Vysetrovani ztraty tridni knihy [List](Cimrmann.md)
 - [x] R.U.R [List](RUR.md)
 - [x] Bílá nemoc [List](Bila%20nemoc.md)
 - [x] Krysař [List](Krysar.md)
 - [x] Spalovač mrtvol [List](Spalovac%20mrtvol.md)
-- [x] Ostře sledované vlaky -TODO
+- [x] Ostře sledované vlaky [List](Ostre%20sledovane%20vlaky.md)
