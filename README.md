@@ -13,7 +13,7 @@ min. 4
 
 ## Česk. 20.-21. stol
 min. 5
-[Viz](Ceska20/Ceska%2020)
+[Viz](Ceska20/Ceska%2020.md)
 - [x] Saturnin
 - [x] Cimrman - Vysetrovani ztraty tridni knihy
 - [x] R.U.R
